@@ -509,9 +509,6 @@ importers:
       fs-extra:
         specifier: ^11.1.0
         version: 11.2.0
-      https-proxy-agent:
-        specifier: ^6.2.0
-        version: 6.2.0
       kleur:
         specifier: ^4.1.5
         version: 4.1.5
@@ -530,6 +527,9 @@ importers:
       prompts:
         specifier: ^2.4.2
         version: 2.4.2
+      proxy-agent:
+        specifier: ^6.4.0
+        version: 6.4.0
       recast:
         specifier: ^0.23.2
         version: 0.23.2
